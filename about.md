@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Dreaming of what's coming next and showing effort towards a better future. The friendships I make and the amazing experiences I have along the way is the greatest achievement.
 
-email: summon.agus[at]gmail.com
+email: denizkusu[at]protonmail.com
